@@ -1,0 +1,15 @@
+licence.txt
+news.txt
+python.exe
+python3.dll
+python38.dll
+pythonw.exe
+vcruntime140.dll
+/DLLs
+/Doc
+/include
+/Lib
+/libs
+/Scripts
+/tcl
+/Tools
